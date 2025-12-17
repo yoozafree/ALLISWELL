@@ -1,0 +1,98 @@
+{
+  "text" : "저희 오늘 보고서 마무리 단계에 관련해서 얘기 나눠볼게요. 그럼 다들 내용 확인하시고 추가적으로 피드백 있으시면 9시까지 댓글 꼭 달아주세요. 그리고 보고서 넘버링 같은 경우 민지님이 보고서 내용 합칠 때 한번 봐주실 수 있을까요?\n네, 제가 보고서 합칠 때 확인할게요. 그럼 다들 아웃 시까지 댓글 달고 확인하시고 몇 시까지는 변경 다 끝내고 내용 그대로 픽스해주시면 제가 내용 보고서에 합치면서 한 번 전체적으로 다시 양치 정리할게요.\n네 저는 제가 맡은 기술요구서 보고서 작성까지 완료했고 지도 교수님 코멘트랑 그걸 반영한 앞으로의 계획 수정 방안까지 작성했습니다. 한 번씩 읽어보시고 피드백 주시면 감사하겠고 혹시 github 업데이트도 완료됐을까요? 네 아까 업로드 다 해두었습니다. 또 변경하고 싶으신 부분이 있으시면 말씀 꼭 해주세요.\n네 확인했습니다. 그리고 저희 각자 기술 블로그 작성도 완료해주셔야 돼요. 네 그럼 이렇게까지 마무리 오늘 회의 마무리 하겠습니다.",
+  "segments" : [ {
+    "type" : "transcript.text.segment",
+    "text" : " 저희 오늘 보고서 마무리 단계에 관련해서 얘기 나눠볼게요.",
+    "speaker" : "A",
+    "start" : 1.236,
+    "end" : 5.635999999999999,
+    "id" : "seg_0"
+  }, {
+    "type" : "transcript.text.segment",
+    "text" : " 그럼 다들 내용 확인하시고 추가적으로 피드백 있으시면 9시까지 댓글 꼭 달아주세요.",
+    "speaker" : "A",
+    "start" : 5.935999999999999,
+    "end" : 13.186,
+    "id" : "seg_1"
+  }, {
+    "type" : "transcript.text.segment",
+    "text" : " 그리고 보고서 넘버링 같은 경우 민지님이 보고서 내용 합칠 때 한번 봐주실 수 있을까요?",
+    "speaker" : "A",
+    "start" : 13.486,
+    "end" : 20.086000000000002,
+    "id" : "seg_2"
+  }, {
+    "type" : "transcript.text.segment",
+    "text" : " 네, 제가 보고서 합칠 때 확인할게요.",
+    "speaker" : "B",
+    "start" : 21.3,
+    "end" : 23.7,
+    "id" : "seg_3"
+  }, {
+    "type" : "transcript.text.segment",
+    "text" : " 그럼 다들 아웃 시까지 댓글 달고 확인하시고 몇 시까지는 변경 다 끝내고 내용 그대로 픽스해주시면 제가 내용 보고서에 합치면서 한 번 전체적으로 다시 양치 정리할게요.",
+    "speaker" : "B",
+    "start" : 23.85,
+    "end" : 36.35,
+    "id" : "seg_4"
+  }, {
+    "type" : "transcript.text.segment",
+    "text" : " 네 저는 제가 맡은 기술요구서 보고서 작성까지 완료했고 지도 교수님 코멘트랑 그걸 반영한 앞으로의 계획 수정 방안까지 작성했습니다.",
+    "speaker" : "B",
+    "start" : 38.068,
+    "end" : 48.967999999999996,
+    "id" : "seg_5"
+  }, {
+    "type" : "transcript.text.segment",
+    "text" : " 한 번씩 읽어보시고 피드백 주시면 감사하겠고 혹시 github 업데이트도 완료됐을까요?",
+    "speaker" : "B",
+    "start" : 49.367999999999995,
+    "end" : 56.867999999999995,
+    "id" : "seg_6"
+  }, {
+    "type" : "transcript.text.segment",
+    "text" : " 네 아까 업로드 다 해두었습니다.",
+    "speaker" : "A",
+    "start" : 57.518,
+    "end" : 60.16799999999999,
+    "id" : "seg_7"
+  }, {
+    "type" : "transcript.text.segment",
+    "text" : " 또 변경하고 싶으신 부분이 있으시면 말씀 꼭 해주세요.",
+    "speaker" : "A",
+    "start" : 60.467999999999996,
+    "end" : 64.368,
+    "id" : "seg_8"
+  }, {
+    "type" : "transcript.text.segment",
+    "text" : " 네 확인했습니다.",
+    "speaker" : "B",
+    "start" : 65.62,
+    "end" : 66.47,
+    "id" : "seg_9"
+  }, {
+    "type" : "transcript.text.segment",
+    "text" : " 그리고 저희 각자 기술 블로그 작성도 완료해주셔야 돼요.",
+    "speaker" : "B",
+    "start" : 66.77000000000001,
+    "end" : 70.27000000000001,
+    "id" : "seg_10"
+  }, {
+    "type" : "transcript.text.segment",
+    "text" : " 네 그럼 이렇게까지 마무리 오늘 회의 마무리 하겠습니다.",
+    "speaker" : "A",
+    "start" : 70.67,
+    "end" : 73.97,
+    "id" : "seg_11"
+  } ],
+  "usage" : {
+    "type" : "tokens",
+    "total_tokens" : 3384,
+    "input_tokens" : 1253,
+    "input_token_details" : {
+      "text_tokens" : 57,
+      "audio_tokens" : 1196
+    },
+    "output_tokens" : 2131
+  }
+}
