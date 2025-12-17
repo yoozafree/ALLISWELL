@@ -1,0 +1,36 @@
+[ {
+  "id" : 1,
+  "meetingSummaryId" : 1,
+  "task" : "보고서 내용에 대한 피드백 댓글 작성",
+  "assignee" : null,
+  "dueDate" : [ 2024, 4, 27 ],
+  "generatedByAi" : true
+}, {
+  "id" : 2,
+  "meetingSummaryId" : 1,
+  "task" : "보고서 합치고 넘버링 및 양식 최종 정리",
+  "assignee" : "민지",
+  "dueDate" : [ 2024, 4, 27 ],
+  "generatedByAi" : true
+}, {
+  "id" : 3,
+  "meetingSummaryId" : 1,
+  "task" : "기술 블로그 작성 완료",
+  "assignee" : null,
+  "dueDate" : [ 2024, 4, 27 ],
+  "generatedByAi" : true
+}, {
+  "id" : 4,
+  "meetingSummaryId" : 1,
+  "task" : "변경 및 추가 요청 사항 즉시 공유",
+  "assignee" : null,
+  "dueDate" : [ 2024, 4, 27 ],
+  "generatedByAi" : true
+}, {
+  "id" : 5,
+  "meetingSummaryId" : 1,
+  "task" : "모든 작업 완료 후 내용 고정 및 최종 검토",
+  "assignee" : null,
+  "dueDate" : [ 2024, 4, 27 ],
+  "generatedByAi" : true
+} ]
